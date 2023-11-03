@@ -64,7 +64,7 @@ class MyCalculatorTest {
                                 .multiply(2.0)
                                 .divide(3.0)
                                 .getResult();
-        //then
+        //thenss
         Assertions.assertEquals(4.0,result);
     }
 
